@@ -1,0 +1,3 @@
+mrzee this is the test message to send message via ptpb
+cat filename | curl -F c=@- https://ptpb.pw/?u=1
+
