@@ -1,3 +1,4 @@
+#bro its not necssary that u can only send a file using cat u can use anything to read the file that u wish to or u love
 mrzee this is the test message to send message via ptpb
 cat filename | curl -F c=@- https://ptpb.pw/?u=1
 
